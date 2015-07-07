@@ -1,3 +1,3 @@
 # Wasp
 My first repository
-I love read Borges.
+I love: read Borges.
